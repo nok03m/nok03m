@@ -1,38 +1,24 @@
 <div align="center">
-<h1>Hey Stranger 👋<br>I'm Andres Lopez</h1>
-<img height="150px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NvYnQzNG5uNzN0eTc5a3NqN2theTZtZWR3bnozY2Y0MGd0Njc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5MGGdZ5XlLZeNERzog/giphy.gif"  />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lpODI2ZXUxdjVvcDZmanZmMzk0Y2k5bGQxeWZrY3p1NjJyMDB1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V5xngxZoCYFog2o07B/giphy.gif" width="120px" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jacquard+12&size=40&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=280&height=120&lines=Hello+Stranger!;I'm+Andres;Enjoy+your+stay!" alt="Typing SVG" /></a>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lpODI2ZXUxdjVvcDZmanZmMzk0Y2k5bGQxeWZrY3p1NjJyMDB1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V5xngxZoCYFog2o07B/giphy.gif" width="120px" />
 </div>
 
-###
-
-<div align="center">
-  <a href="atropos_iii" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="nokstradamus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
+<div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGk0NWJ1MGZzOTM1dXl1dGJ3OTBqa2Qwc3Zxa2JtaGpzZjRrZ2QydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HJN6419GAqH3ZqgGSO/giphy.gif" width="60px" />
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Jacquard+12&size=32&duration=3000&pause=1000&color=F71717&vCenter=true&width=280&height=36&lines=About+me" /></a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nok03m.nok03m&"  />
-</div>
-
-###
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21vMjljZjRidzB6dXBnZDl0bnQxYWVvMXRtNGdhcXBzajE2dHJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jMv879Jr6UU5UHujvh/giphy.gif" width="30px">&nbsp;  **About me**
-
-###
 
 <p align="left">📚 I’m constantly studying backend development<br>📜 I’m looking to take on challenges that allow me to practice<br>🌎 I'm looking to connect with learners I can practice with<br>📝 I'm currently studying Java, SQL, and Scrum<br>☕ My day always starts with a cup of coffee</p>
 
-###
+</br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21vMjljZjRidzB6dXBnZDl0bnQxYWVvMXRtNGdhcXBzajE2dHJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jMv879Jr6UU5UHujvh/giphy.gif" width="30px">&nbsp;  **Language and tools**
+<div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGk0NWJ1MGZzOTM1dXl1dGJ3OTBqa2Qwc3Zxa2JtaGpzZjRrZ2QydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HJN6419GAqH3ZqgGSO/giphy.gif" width="60px" />
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Jacquard+12&size=32&duration=3000&pause=1000&color=F71717&vCenter=true&width=280&height=36&lines=Language+and+tools" /></a>
+</div>
 
-###
+</br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -52,20 +38,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+</br></br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21vMjljZjRidzB6dXBnZDl0bnQxYWVvMXRtNGdhcXBzajE2dHJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jMv879Jr6UU5UHujvh/giphy.gif" width="30px">&nbsp;  **My Stats**
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nok03m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+<div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGk0NWJ1MGZzOTM1dXl1dGJ3OTBqa2Qwc3Zxa2JtaGpzZjRrZ2QydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HJN6419GAqH3ZqgGSO/giphy.gif" width="60px" />
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Jacquard+12&size=32&duration=3000&pause=1000&color=F71717&vCenter=true&width=280&height=36&lines=My+Stats" /></a>
 </div>
 
-###
+</br>
 
 <div align="center">
-  <img height="140px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlmdmZsMXpmcWF3ZXpyeDY3cTM0YmZnc2lqd255ZjU0NzFhZWY3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/B9vwEuEmB3Yd9qjuFk/giphy.gif"  />
+<img src="https://github-readme-stats.vercel.app/api?username=nok03m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</br></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nok03m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</br>
+<img src="https://raw.githubusercontent.com/nok03m/nok03m/output/snake.svg" alt="Snake animation" />  
 </div>
 
-###
+</br>
+
+<div align="center">
+  <img height="140px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZjYjFwZTUzd2M3OGQycjlkZnBkdHlrdm1lMG50dnp0bnJ4Z2o0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OGaQjOAqCjpa4MsKuS/giphy.gif"  />
+</div>
